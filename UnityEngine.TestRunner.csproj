@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{65DBCFF4-F617-A072-99D6-A4205E34C660}</ProjectGuid>
+    <ProjectGuid>{B0DB545B-2454-DD45-401D-BBE1D78E42F8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>UnityEngine.TestRunner</AssemblyName>
@@ -358,7 +358,7 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>C:/Users/Rickson/Documents/GitHub/GameDev/TETRIX/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>C:/Users/Rickson/Documents/GitHub/Tetrix/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.22f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

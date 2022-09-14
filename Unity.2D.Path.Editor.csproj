@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D6022CBD-DFDC-E24B-AB13-BB52A428F1D2}</ProjectGuid>
+    <ProjectGuid>{FEFD6341-541C-6E7D-BEEE-2F0C5400A1AB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Path.Editor</AssemblyName>
@@ -298,7 +298,7 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>C:/Users/Rickson/Documents/GitHub/GameDev/TETRIX/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>C:/Users/Rickson/Documents/GitHub/Tetrix/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.22f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -657,19 +657,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{01159096-2446-CF2C-01BC-3C4C2500DF64}</Project>
+      <Project>{1B98D422-FA96-CD18-C74D-D24C32F6DD45}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{EBF99589-9512-17FE-2CEB-FC25CCC60B1F}</Project>
+      <Project>{D3997E75-9ED7-4CBC-385D-FAA64DEC7435}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{32ABF7BB-CD93-C408-D437-82EB303B6E08}</Project>
+      <Project>{22FD0A5A-EF96-0AF0-81E6-6BC04D39FAF0}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{65DBCFF4-F617-A072-99D6-A4205E34C660}</Project>
+      <Project>{B0DB545B-2454-DD45-401D-BBE1D78E42F8}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

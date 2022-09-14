@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{BEFAA9FA-93BE-1CE3-CCD1-F9CD85F3E2CB}</ProjectGuid>
+    <ProjectGuid>{1B037D30-FB7B-8B08-0EDE-C71D824085EF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Psdimporter.Editor</AssemblyName>
@@ -263,7 +263,7 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>C:/Users/Rickson/Documents/GitHub/GameDev/TETRIX/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>C:/Users/Rickson/Documents/GitHub/Tetrix/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.22f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -622,43 +622,43 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="PsdPlugin.csproj">
-      <Project>{0CB0B084-E6B6-CA15-1B78-DCDD807073A7}</Project>
+      <Project>{3A40BC0D-82F5-B581-8808-399921548368}</Project>
       <Name>PsdPlugin</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.InternalAPIEditorBridge.001.csproj">
-      <Project>{4AA9410E-DAD0-763A-02A8-2B7C2EBBEF57}</Project>
+      <Project>{E3FD0466-56AF-B4C7-692C-B242450618E9}</Project>
       <Name>Unity.InternalAPIEditorBridge.001</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Common.Editor.csproj">
-      <Project>{6FB2E914-A7D3-0996-8CE0-5B20BB4265AF}</Project>
+      <Project>{CD2AC5F1-BAD4-631A-033B-96F45686FCA9}</Project>
       <Name>Unity.2D.Common.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Animation.Editor.csproj">
-      <Project>{5D3AA57A-F021-787A-F2D2-32E6D44122BD}</Project>
+      <Project>{D66D06BB-7271-E62B-4872-B67CA295C72E}</Project>
       <Name>Unity.2D.Animation.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Animation.Runtime.csproj">
-      <Project>{59B5C403-F15C-6EB9-CBDF-F6128955616F}</Project>
+      <Project>{20A9C7E7-9EC9-8EC6-50E7-67D971986AE2}</Project>
       <Name>Unity.2D.Animation.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
-      <Project>{20EC07A5-F5D6-9D2E-2FAC-9C5A4CBBECB7}</Project>
+      <Project>{4C5EFECA-E818-E59B-1227-59613BEA9DA4}</Project>
       <Name>Unity.2D.Sprite.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{01159096-2446-CF2C-01BC-3C4C2500DF64}</Project>
+      <Project>{1B98D422-FA96-CD18-C74D-D24C32F6DD45}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{EBF99589-9512-17FE-2CEB-FC25CCC60B1F}</Project>
+      <Project>{D3997E75-9ED7-4CBC-385D-FAA64DEC7435}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{32ABF7BB-CD93-C408-D437-82EB303B6E08}</Project>
+      <Project>{22FD0A5A-EF96-0AF0-81E6-6BC04D39FAF0}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{65DBCFF4-F617-A072-99D6-A4205E34C660}</Project>
+      <Project>{B0DB545B-2454-DD45-401D-BBE1D78E42F8}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
